@@ -64,6 +64,8 @@ In general
  Note that both are equivalent, they’re just different ways of showing the path to the current directory.
 3. `$` represents the end of the prompt, after which you can enter a command.
 
+*Mac users*: MacOS Catalina and later uses the `zsh` shell, which uses the `%` symbol rather than `$`, which was the default on the `bash` shell. If your Terminal window shows a `%` rather than a `$`, treat the `%` the same as `$` in instructions below.
+
 File browsing using the terminal is like using Windows explorer/Finder or clicking on folders and navigating to different folders on your machine.
 
 In the terminal, instead of clicking on folders we use text commands to tell the computer what we want. If we want to go to a folder where we saved our last homework, we can type the commands to navigate to that folder and display its contents.
